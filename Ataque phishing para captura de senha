@@ -1,4 +1,4 @@
- <h1> Passos basicos </h1>
+  Passos basicos
 # Passo 1: Abra o terminal no Kali Linux
 # Passo 2: Torne-se root
 "sudo su"
