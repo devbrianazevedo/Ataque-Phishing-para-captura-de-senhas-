@@ -1,0 +1,28 @@
+  Passos basicos
+# Passo 1: Abra o terminal no Kali Linux
+# Passo 2: Torne-se root
+"sudo su"
+
+# Passo 3: Inicie o SET 
+"setoolkit"
+
+# Passo 4: Escolha "Social-Engineering Attacks"
+# Passo 5: Selecione "Web Site Attack Vectors"
+# Passo 6: Escolha "Credential Harvester Attack Method"
+# Passo 7: Selecione "Web Templates"
+
+# Passo 8: Abra um novo terminal e obtenha o endereço IP da máquina
+ifconfig
+
+# Passo 9: Escolha o template desejado, como "Google". Lembre-se de que a escolha de templates relacionados a grandes empresas pode ser ilegal e antiética.
+
+# Passo 10: Siga as instruções do SET para configurar as opções do phishing, como o endereço IPsa sua maquina.
+
+# Passo 11: Depois de configurar, Inicie o ataque e aguarde que as vítimas interajam com a página falsa
+
+# Passo 12: As credenciais capturadas serão registradas no SET
+
+# Ética e Responsabilidade:
+# - Lembre-se de que atividades de phishing são ilegais e antiéticas.
+# - Nunca use essas técnicas para prejudicar outras pessoas.
+# - Concentre-se em práticas éticas de segurança cibernética e aprenda a proteger sistemas contra ataques.
