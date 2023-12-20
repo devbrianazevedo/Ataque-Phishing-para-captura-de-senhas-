@@ -1,11 +1,24 @@
- # Passos basicos
- Passo 1: Abra o terminal no Kali Linux
- Passo 2: Torne-se root "sudo su"
+# Phishing para captura de senhas
 
-# Passo 3: Inicie o SET 
+# Ferramentas
+* Kali Linux
+* setoolkit
+
+# Configurando o Phishing no Kali Linux
+* Acesso root: sudo su
+* Iniciando o setoolkit: setoolkit
+Tipo de ataque: Social-Engineering Attacks
+Vetor de ataque: Web Site Attack Vectors
+Método de ataque: Credential Harvester Attack Method
+Método de ataque: Web Templates
+Obtendo o endereço da máquina: ifconfig
+Select Template: Google
+
+# Inicie o SET: 
 "setoolkit"
 
-# Passo 4: Escolha "Social-Engineering Attacks"
+#  Escolha: 
+"Social-Engineering Attacks"
 # Passo 5: Selecione 
 "Web Site Attack Vectors"
 # Passo 6: Escolha 
