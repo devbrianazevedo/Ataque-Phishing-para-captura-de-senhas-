@@ -1,18 +1,20 @@
-  Passos basicos
-# Passo 1: Abra o terminal no Kali Linux
-# Passo 2: Torne-se root
-"sudo su"
+ # Passos basicos
+ Passo 1: Abra o terminal no Kali Linux
+ Passo 2: Torne-se root "sudo su"
 
 # Passo 3: Inicie o SET 
 "setoolkit"
 
 # Passo 4: Escolha "Social-Engineering Attacks"
-# Passo 5: Selecione "Web Site Attack Vectors"
-# Passo 6: Escolha "Credential Harvester Attack Method"
-# Passo 7: Selecione "Web Templates"
+# Passo 5: Selecione 
+"Web Site Attack Vectors"
+# Passo 6: Escolha 
+"Credential Harvester Attack Method"
+# Passo 7: Selecione 
+"Web Templates"
 
 # Passo 8: Abra um novo terminal e obtenha o endereço IP da máquina
-ifconfig
+"ifconfig"
 
 # Passo 9: Escolha o template desejado, como "Google". Lembre-se de que a escolha de templates relacionados a grandes empresas pode ser ilegal e antiética.
 
