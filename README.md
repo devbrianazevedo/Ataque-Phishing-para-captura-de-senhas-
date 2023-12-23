@@ -13,7 +13,7 @@
 * Vetor de ataque: <p style="color:red;">Web Site Attack Vectors</p>
 * Método de ataque: <p style="color📘;">Credential Harvester Attack Method</p>
 * Método de ataque: <h2 style="color:purple;">Web Templates</h2>
-* Obtendo o endereço da máquina: <p style="color📘;">ifconfig</p>
+* Obtendo o endereço da máquina: <p style="color blue;">ifconfig</p>
 * Select Template: <p style="color📘;">Google</p>
 
  Depois de configurar, Inicie o ataque e aguarde que as vítimas interajam com a página falsa
