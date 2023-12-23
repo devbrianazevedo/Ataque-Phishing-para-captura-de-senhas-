@@ -9,10 +9,10 @@
 # Configurando o Phishing no Kali Linux
 * Acesso root: sudo su
 * Iniciando o setoolkit: <p style="color📘;">Setoolkit</p>
-* Tipo de ataque: <p style="color📘;">Social-Engineering Attacks</p>
+* Tipo de ataque: <p style="color:blue;">Social-Engineering Attacks</p>
 * Vetor de ataque: <p style="color:red;">Web Site Attack Vectors</p>
 * Método de ataque: <p style="color📘;">Credential Harvester Attack Method</p>
-* Método de ataque: <h2 style="color:purple;">Web Templates</h2>
+* Método de ataque: <h2 style="color:blue;">Web Templates</h2>
 * Obtendo o endereço da máquina: <p style="color blue;">ifconfig</p>
 * Select Template: <p style="color📘;">Google</p>
 
