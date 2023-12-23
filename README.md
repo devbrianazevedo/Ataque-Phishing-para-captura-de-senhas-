@@ -12,7 +12,7 @@
 * Tipo de ataque: <p style="color:blue;">Social-Engineering Attacks</p>
 * Vetor de ataque: <p style="color:red;">Web Site Attack Vectors</p>
 * Método de ataque: <p style="color📘;">Credential Harvester Attack Method</p>
-* Método de ataque:  style="color:red;">Web templates</p>
+* Método de ataque: <P style="color:red;">Web templates</p>
 * Obtendo o endereço da máquina: <p style="color blue;">ifconfig</p>
 * Select Template: <p style="color📘;">Google</p>
 
