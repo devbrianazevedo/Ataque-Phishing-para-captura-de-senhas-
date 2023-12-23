@@ -7,7 +7,7 @@
 * setoolkit.
 
 # Configurando o Phishing no Kali Linux
-* Acesso root: sudo su
+* Acesso root: <p style="color📘;">sudo su</p>
 * Iniciando o setoolkit: <p style="color📘;">Setoolkit</p>
 * Tipo de ataque: <p style="color:blue;">Social-Engineering Attacks</p>
 * Vetor de ataque: <p style="color:red;">Web Site Attack Vectors</p>
